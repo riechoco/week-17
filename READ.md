@@ -1,7 +1,7 @@
 # Simulated Device Monitoring and Alert System
  
 **Student Name:** Joana Marie T. Caban
-**Student Number:** 2600403
+**Student Number:** 2600403 
 **Section:** 1CpEA
  
 ## Project Description
